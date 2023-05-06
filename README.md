@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Fors3tti and this is my github workplace! 👋
 
-<!--
-**giovannilmaciel/giovannilmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I’m currently learning and working with unity
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/giovannilmaciel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannilmaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannilmaciel&layout=compact&langs_count=16&theme=dark"/>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I work with on a daily basis
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<div>
